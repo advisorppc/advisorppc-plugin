@@ -26,14 +26,14 @@ claude plugin install advisorppc@advisorppc
 This repository is itself a Claude Code plugin marketplace, so you can point Claude Code straight at it:
 
 ```
-claude plugin marketplace add AdvisorAGI/advisorppc-plugin
+claude plugin marketplace add advisorppccom-coder/advisorppc
 claude plugin install advisorppc@advisorppc
 ```
 
 Or interactively inside Claude Code:
 
 ```
-/plugin marketplace add AdvisorAGI/advisorppc-plugin
+/plugin marketplace add advisorppccom-coder/advisorppc
 /plugin install advisorppc@advisorppc
 ```
 
