@@ -1,0 +1,6 @@
+{
+  "advisorppc": {
+    "type": "http",
+    "url": "https://mcp.advisorppc.com/claude"
+  }
+}

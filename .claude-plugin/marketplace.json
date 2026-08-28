@@ -1,0 +1,21 @@
+{
+  "name": "advisorppc",
+  "description": "Advisor Media's marketplace for the AdvisorPPC plugin: connect Claude Code to your real Google Ads, Analytics, Tag Manager, Search Console, and YouTube accounts.",
+  "owner": {
+    "name": "Advisor Media",
+    "url": "https://advisorppc.com"
+  },
+  "plugins": [
+    {
+      "name": "advisorppc",
+      "description": "Work on your real ad accounts from Claude Code: audit Google Ads campaigns, pull performance reports across Google Ads, Analytics, and Search Console, inspect Tag Manager setups, review YouTube channel stats — and manage budgets and campaigns on paid plans.",
+      "author": {
+        "name": "Advisor Media",
+        "url": "https://advisorppc.com"
+      },
+      "category": "productivity",
+      "source": "./",
+      "homepage": "https://advisorppc.com"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "advisorppc",
+  "version": "0.1.0",
+  "description": "Work on your real ad accounts from Claude Code: audit Google Ads campaigns, pull performance reports across Google Ads, Analytics, and Search Console, inspect Tag Manager setups, review YouTube channel stats — and manage budgets and campaigns on paid plans.",
+  "author": {
+    "name": "Advisor Media",
+    "url": "https://advisorppc.com"
+  },
+  "homepage": "https://advisorppc.com",
+  "keywords": [
+    "google-ads",
+    "ppc",
+    "advertising",
+    "analytics",
+    "ga4",
+    "search-console",
+    "tag-manager",
+    "youtube",
+    "reporting",
+    "audit"
+  ]
+}
